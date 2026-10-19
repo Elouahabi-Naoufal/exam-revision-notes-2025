@@ -134,9 +134,9 @@ Three rough edges you will notice immediately:
 
 This is a plain-text repository, so "built with" means the file formats it contains.
 
-* [![Markdown][Markdown-url]][Markdown]
-* [![Obsidian][Obsidian-url]][Obsidian]
-* [![PDF][PDF-url]][PDF]
+* [![Markdown][Markdown-badge]][Markdown-url]
+* [![Obsidian][Obsidian-badge]][Obsidian-url]
+* [![PDF][PDF-badge]][PDF-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -292,6 +292,9 @@ Project Link: [https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025](ht
 [issues-url]: https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elouahabi-naoufal/
-[Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-[Obsidian]: https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white
-[PDF]: https://img.shields.io/badge/PDF-B30E0E?style=for-the-badge&logo=adobepdf&logoColor=white
+[Markdown-badge]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[Markdown-url]: https://daringfireball.net/projects/markdown/
+[Obsidian-badge]: https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white
+[Obsidian-url]: https://obsidian.md/
+[PDF-badge]: https://img.shields.io/badge/PDF-B30E0E?style=for-the-badge&logo=adobepdf&logoColor=white
+[PDF-url]: https://www.adobe.com/acrobat/about-adobe-pdf.html
