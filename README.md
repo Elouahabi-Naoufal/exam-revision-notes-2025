@@ -12,25 +12,24 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT TITLE BLOCK -->
 <br />
 <div align="center">
-  <a href="https://github.com/Elouahabi-Naoufal/revision-examens-2025">
-    <h3 align="center">revision-examens-2025</h3>
+  <a href="https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025">
+    <h3 align="center">exam-revision-notes-2025</h3>
   </a>
 
   <p align="center">
     Study notes, cheat sheets and exam scans for the June 2025 assessment round.<br />
     A notes repository, not an application.
     <br />
-    <a href="https://github.com/Elouahabi-Naoufal/revision-examens-2025/tree/main/Revisions%20planning"><strong>Start at the index »</strong></a>
+    <a href="https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/tree/main/Revisions%20planning"><strong>Start at the index »</strong></a>
     <br />
-    <a href="https://github.com/Elouahabi-Naoufal/revision-examens-2025/issues">Report Bug</a>
+    <a href="https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/issues">Report Bug</a>
     &middot;
-    <a href="https://github.com/Elouahabi-Naoufal/revision-examens-2025/issues">Request Feature</a>
+    <a href="https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/issues">Request Feature</a>
   </p>
 </div>
 
@@ -97,7 +96,7 @@ written in Latin script. The intent is working notes for revision, not polished 
 ### Repository layout
 
 ```
-revision-examens-2025/
+exam-revision-notes-2025/
 ├── .gitignore                       # only ".obsidian/"
 ├── 2, 10, 10 1, 12, 13              # image files with no file extension (see below)
 ├── Conception/                      # UML and software development methods
@@ -156,8 +155,8 @@ This is a plain-text repository, so "built with" means the file formats it conta
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Elouahabi-Naoufal/revision-examens-2025.git
-   cd revision-examens-2025
+   git clone https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025.git
+   cd exam-revision-notes-2025
    ```
 
 2. Open the folder as an Obsidian vault, or just browse the Markdown files in an
@@ -218,7 +217,7 @@ Known gaps, based on the current state of the files:
 - [ ] Renaming `Frensh/` to `French/` — but note that renaming breaks any existing link to the folder
 - [ ] Add a `LICENSE` file, since course handouts and third-party PDFs are redistributed here
 
-See the [open issues](https://github.com/Elouahabi-Naoufal/revision-examens-2025/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,8 +241,8 @@ adding both the file and its `[[link]]` in `Revisions planning/Index.md`.
 
 ### Top contributors:
 
-<a href="https://github.com/Elouahabi-Naoufal/revision-examens-2025/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Elouahabi-Naoufal/revision-examens-2025" alt="contrib.rocks image" />
+<a href="https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Elouahabi-Naoufal/exam-revision-notes-2025" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -251,11 +250,12 @@ adding both the file and its `[[link]]` in `Revisions planning/Index.md`.
 <!-- LICENSE -->
 ## License
 
-No `LICENSE` file is currently bundled with this repository. That matters more here than
-in a code repository: `Statistique/` and `Frensh/` contain course handouts, distribution
-tables and photographs that belong to their original authors, not to this repository.
-Until a license is chosen, assume the notes are not licensed for redistribution and that
-the PDFs remain under their own terms.
+No `LICENSE` file is bundled with this repository. That matters more here than in a code
+repository: `Statistique/` and `Frensh/` contain course handouts, distribution tables and
+photographs that belong to their original authors, not to this repository. The PDFs remain
+under their own terms.
+
+This project is not licensed — all rights reserved.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,7 +264,7 @@ the PDFs remain under their own terms.
 
 Naoufal Elouahabi - [LinkedIn](https://www.linkedin.com/in/elouahabi-naoufal/) - elouahabi-naoufal1@gmail.com
 
-Project Link: [https://github.com/Elouahabi-Naoufal/revision-examens-2025](https://github.com/Elouahabi-Naoufal/revision-examens-2025)
+Project Link: [https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025](https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,16 +282,14 @@ Project Link: [https://github.com/Elouahabi-Naoufal/revision-examens-2025](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Elouahabi-Naoufal/revision-examens-2025.svg?style=for-the-badge
-[contributors-url]: https://github.com/Elouahabi-Naoufal/revision-examens-2025/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Elouahabi-Naoufal/revision-examens-2025.svg?style=for-the-badge
-[forks-url]: https://github.com/Elouahabi-Naoufal/revision-examens-2025/network/members
-[stars-shield]: https://img.shields.io/github/stars/Elouahabi-Naoufal/revision-examens-2025.svg?style=for-the-badge
-[stars-url]: https://github.com/Elouahabi-Naoufal/revision-examens-2025/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Elouahabi-Naoufal/revision-examens-2025.svg?style=for-the-badge
-[issues-url]: https://github.com/Elouahabi-Naoufal/revision-examens-2025/issues
-[license-shield]: https://img.shields.io/github/license/Elouahabi-Naoufal/revision-examens-2025.svg?style=for-the-badge
-[license-url]: https://github.com/Elouahabi-Naoufal/revision-examens-2025
+[contributors-shield]: https://img.shields.io/github/contributors/Elouahabi-Naoufal/exam-revision-notes-2025.svg?style=for-the-badge
+[contributors-url]: https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Elouahabi-Naoufal/exam-revision-notes-2025.svg?style=for-the-badge
+[forks-url]: https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/network/members
+[stars-shield]: https://img.shields.io/github/stars/Elouahabi-Naoufal/exam-revision-notes-2025.svg?style=for-the-badge
+[stars-url]: https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Elouahabi-Naoufal/exam-revision-notes-2025.svg?style=for-the-badge
+[issues-url]: https://github.com/Elouahabi-Naoufal/exam-revision-notes-2025/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elouahabi-naoufal/
 [Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
